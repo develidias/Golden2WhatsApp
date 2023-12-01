@@ -69,4 +69,11 @@ p {
 .day-mode {
   	background-color: white;
   	color: black;
-} 
+}
+
+.whatsapp
+{
+	height: 50px;
+	width: 50px;
+	text-align: center;
+}
